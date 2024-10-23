@@ -1,0 +1,7 @@
+Option|Valeur
+Themes Abordés|['Cejm : Définitions chapitre 3']
+Nombre De Questions|20
+Nombre de Réponses|3
+Mode Timer|False
+Timer|0
+Mode Sans Echec|True
