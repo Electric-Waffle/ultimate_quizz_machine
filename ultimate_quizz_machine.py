@@ -813,7 +813,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "préliminaire à la conclusion (ou passation) du contrat",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -829,7 +829,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "sont discutées les clauses qu'il pourrait contenir",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -845,7 +845,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "aucune partie",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -861,7 +861,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Pourparlers",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -877,7 +877,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "préparer la conclusion d'un contrat à venir.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -893,7 +893,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "un engagement contractuel",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -909,7 +909,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Avant-contrat",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -925,7 +925,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "de traiter prioritairement avec le bénéficiaire désigné",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -941,7 +941,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Pacte de préférence",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -957,7 +957,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "seulement la partie qui en est à l'origine.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -973,7 +973,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Promesse unilatérale de contrat",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -990,7 +990,7 @@ BASE_DE_DONNEE = {
                 
         "solution" :  "promesse synallagmatique",
 
-        "explication" : "explication"
+        "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1006,7 +1006,7 @@ BASE_DE_DONNEE = {
                 
         "solution" :  "Promesse bilatérale de contrat",
 
-        "explication" : "explication"
+        "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1022,7 +1022,7 @@ BASE_DE_DONNEE = {
                 
         "solution" :  "Promesse bilatérale de contrat",
 
-        "explication" : "explication"
+        "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1038,7 +1038,7 @@ BASE_DE_DONNEE = {
                 
         "solution" :  "la valeur du bien",
 
-        "explication" : "explication"
+        "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1054,7 +1054,7 @@ BASE_DE_DONNEE = {
                 
         "solution" :  "Obligation d'information",
 
-        "explication" : "explication"
+        "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1070,7 +1070,7 @@ BASE_DE_DONNEE = {
                 
         "solution" :  "contracter ou de ne pas contracter",
 
-        "explication" : "explication"
+        "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1086,7 +1086,7 @@ BASE_DE_DONNEE = {
                 
         "solution" :  "choisir leur cocontractant",
 
-        "explication" : "explication"
+        "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1102,7 +1102,7 @@ BASE_DE_DONNEE = {
                 
         "solution" :  "déterminer le contenu et la forme du contrat",
 
-        "explication" : "explication"
+        "explication" : "flemme de donner une explication dsl"
 
         },
         "Principe juridique selon lequel les personnes sont libres de contracter ou de ne pas contracter, de choisir leur cocontractant, de déterminer le contenu et la forme du contrat (dans les limites fixées par la loi)." : {
@@ -1117,7 +1117,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Liberté contractuelle",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1133,7 +1133,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "parties",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1149,7 +1149,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "éteindre",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1165,7 +1165,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "contrat",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1181,7 +1181,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "l'offre et de l'acceptation",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1197,7 +1197,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Consentement",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1213,7 +1213,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Vices du consentement",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1229,7 +1229,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Erreur",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1245,7 +1245,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Dol",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1261,7 +1261,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Erreur",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1277,7 +1277,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Dol",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1293,7 +1293,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Violence",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1309,7 +1309,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Capacité juridique",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1325,7 +1325,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "L'incapacité juridique",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1341,7 +1341,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Représentation juridique",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1357,7 +1357,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Contenu du contrat",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1373,7 +1373,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Nullité",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1389,7 +1389,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "L'anéantissement du contrat et de ses clauses.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1405,7 +1405,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Clause de réserve de propriété",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1421,7 +1421,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Clause de réserve de propriété",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1437,7 +1437,7 @@ BASE_DE_DONNEE = {
                     
             "solution" :  "Clause pénale",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
         "Principe juridique selon lequel les personnes sont libres de contracter ou de ne pas contracter, de choisir leur cocontractant, de déterminer le contenu et la forme du contrat (dans les limites fixées par la loi)." : {
@@ -1452,7 +1452,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Liberté contractuelle",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
         "Clause du contrat qui détermine à l'avance la pénalité pécuniaire due par la partie qui n'exécuterait pas ses obligations." : {
@@ -1467,7 +1467,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Clause pénale",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1483,7 +1483,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Clause",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1499,7 +1499,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Paragraphe",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1515,7 +1515,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Imprévision",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1531,7 +1531,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Effet obligatoire du contrat",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1547,7 +1547,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Effet relatif du contrat",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1563,7 +1563,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Effet relatif du contrat",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1579,7 +1579,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Stipulation pour autrui",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1595,7 +1595,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Prix",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
         "Prix" : {
@@ -1610,7 +1610,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Element clé de l'accord des parties dans certains contrats tels que la vente et devant etre déterminé ou déterminable lors de la conclusion du contrat.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
         "Stipulation pour autrui" : {
@@ -1625,7 +1625,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Contrat par lequel un stipulant fait promettre à un promettant d'accomplir une prestation au profit d'un bénéficiaire (tiers au contrat).",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1641,7 +1641,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Principe selon lequel le contrat n'a d'effet qu'entre les parties contractantes.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1657,7 +1657,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Principe selon lequel le contrat engage les parties et ne peut être remis en cause par la décision unilatérale de l'une d'entre elles.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1673,7 +1673,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Changement de circonstances, imprévisible au jour du contrat, qui permet à la partie victime de demander la révision du contrat.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1689,7 +1689,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Clause du contrat qui détermine à l'avance la pénalité pécuniaire due par la partie qui n'exécuterait pas ses obligations.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1705,7 +1705,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Dispositions d'un contrat. II existe des clauses générales, comme celle relative à l'identification des parties, et des clauses spécifiques à chaque type de contrat (vente, bail, etc.)",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1721,7 +1721,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Clause du contrat qui autorise le vendeur à récupérer le bien objet de la vente si l'acheteur n'a pas intégralement payé le prix selon les modalités fixées au contrat",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1737,7 +1737,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Sanction de l'absence d'une condition de validité du contrat consistant en l'anéantissement du contrat.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1753,7 +1753,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Ensemble des engagements des parties constituant leurs obligations contractuelles.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1769,7 +1769,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Mécanisme par lequel une personne, appelée «le représentant (un dirigeant de société, un tuteur), est investie du pouvoir d'agir pour le compte d'une autre personne, appelée 'le représenté' (une société, un majeur sous tutelle).",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1785,7 +1785,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "est l'incapacité à exercer les droits dont on est titulaire (comme conclure un contrat) en raison de l'âge (minorité) ou de l'altération des facultés personnelles chez certains majeurs (majeurs protégés).",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1802,7 +1802,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Aptitude d'une personne à être titulaire de droits et à les exercer",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1818,7 +1818,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Vice du consentement, constitué par une contrainte physique ou morale (chantage) exercée par une personne pour obtenir l'accord de l'autre partie à un contrat.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1834,7 +1834,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Vice du consentement, constitué par des manoeuvres, des mensonges ou une dissimulation intentionnelle par une partie pour obtenir le consentement de son cocontractant.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1850,7 +1850,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Vice du consentement qui affecte la validité du contrat si l'erreur porte sur une des qualités essentielles de la prestation due ou sur celles du cocontractant.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1866,7 +1866,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Absence de consentement libre (en cas de violence) et éclairé (en cas d'erreur ou de dol) entraînant la nullité du contrat.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1882,7 +1882,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Accord des volontés des parties à un contrat réalisé par la rencontre de l'offre et de l'acceptation.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1898,7 +1898,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Accord de volontés entre deux ou plusieurs personnes, appelées parties, destiné à créer, modifier, trans- mettre ou éteindre des obligations.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1914,7 +1914,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Principe juridique selon lequel les personnes sont libres de contracter ou de ne pas contracter, de choisir leur cocontractant, de déterminer le contenu et la forme du contrat (dans les limites fixées par la loi).",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1930,7 +1930,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Obligation, pour un contractant, de communiquer à son cocontractant, les informations susceptibles d'être déterminantes de son consentement.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1946,7 +1946,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Engagement de deux personnes de passer un contrat, qui engage les deux parties concernées.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1962,7 +1962,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Engagement d'une personne de passer un contrat, qui n'engage que la partie qui en est à l'origine.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1978,7 +1978,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Engagement d'une personne à proposer prioritairement au bénéficiaire désigné de traiter avec lui pour le cas où elle déciderait de contracter.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -1994,7 +1994,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Engagement contractuel d'une ou de plusieurs parties dont la finalité est de préparer la conclusion d'un contrat à venir.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
@@ -2010,7 +2010,7 @@ BASE_DE_DONNEE = {
             
             "solution" :  "Phase préliminaire à la conclusion (ou passation) du contrat durant laquelle sont discutées les clauses qu'il pourrait contenir. Aucune partie n'est engagée à ce stade.",
 
-            "explication" : "explication"
+            "explication" : "flemme de donner une explication dsl"
 
         },
 
