@@ -67,9 +67,11 @@ NB: ne pas mettre plus de 5 réponses fausses dans la boite "Réponse".
 
 voici la structure d'une boite theme (a copier coller a outrance, y compris les boites question a poser numero x") :
 
-"Theme des Questions": {
 
 
+
+      "Theme des Questions": {
+      
         "Question a Poser Numéro 1" : {
 
             "reponse" : [
@@ -101,7 +103,7 @@ voici la structure d'une boite theme (a copier coller a outrance, y compris les 
             "explication" : "Explication a donner en cas de mauvaise réponse"
 
         },
-
-},
+        
+      },
 
 NB : ne jamais changer le nom "reponse" "solution" et "explication". Le reste, faites ce que vous voulez.
