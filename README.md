@@ -1,4 +1,4 @@
-A - Installation du programme
+   A - Installation du programme
 
 Faut python 3.7 (téléchargeable en ligne ou sur le Microsoft store)
 Apres tu double clique sur le programme et c'est good. 
@@ -12,7 +12,7 @@ NB 2: le truc est codé aux petits oignons, et marche même sur ton portable ! N
 
 
 
-B - Utilisation du programme
+   B - Utilisation du programme
 
 Dans les options tu peut configurer ta partie. Genre, aborder un ou plusieurs thèmes, mettre en mode contre la montre, etc. 
 
@@ -30,7 +30,7 @@ C'est pas sorcier mdrrr
 
 
 
-C - Ajout de themes et questions personnalisées
+   C - Ajout de themes et questions personnalisées
 
 
 Vous voulez rajouter vos propres questions et themes ? c'est facile !
